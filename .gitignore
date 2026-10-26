@@ -1,4 +1,9 @@
 *
 !.gitignore
 !requirements.txt
-!Week*Chall/
+
+!Week[1-9]Chall*/
+!Week[1-9]Chall*/**
+
+__pycache__/
+.ipynb_checkpoints/
