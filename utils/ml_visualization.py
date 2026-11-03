@@ -11,7 +11,7 @@ from sklearn.inspection import DecisionBoundaryDisplay
 import itertools
 import warnings
 
-import ml_utilities
+import utils.ml_utilities as ml_utilities
 
 # Configurazione di Matplotlib
 plt.rcParams['figure.figsize'] = (8, 8)
