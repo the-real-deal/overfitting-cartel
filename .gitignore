@@ -6,6 +6,9 @@
 !Week[1-9]Chall*/
 !Week[1-9]Chall*/**
 
+!utils/
+!utils/**
+
 __pycache__
 .ipynb_checkpoints/
 Experiments/
